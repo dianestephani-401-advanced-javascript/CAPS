@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/dianestephani-401-advanced-javascript/CAPS/issues"
   },
-  "homepage": "https://github.com/dianestephani-401-advanced-javascript/CAPS#readme"
+  "homepage": "https://github.com/dianestephani-401-advanced-javascript/CAPS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.4.2",
+    "supergoose": "^0.2.6"
+  }
 }
