@@ -55,14 +55,13 @@ Install all dependencies needed for the project.
 
 ![Details of Post](https://via.placeholder.com/500x250)
 
----------------------------
-
-## Data Flow (Frontend, Backend, REST API)
-
-***[Add a clean and clear explanation of what the data flow is. Walk me through it.]***
-![Data Flow Diagram](/assets/img/Flowchart.png)
-
 --------------------------- -->
+
+## Data Flow
+
+![Lab 16 Whiteboard](https://github.com/dianestephani-401-advanced-javascript/CAPS/blob/master/Lab%2016%20whiteboard.jpeg)
+
+---------------------------
 
 <!-- ## Data Model
 
