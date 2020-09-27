@@ -10,8 +10,6 @@
 
 ## Web Application
 
-***[Explain your app, should be at least a paragraph. What does it do? Why should I use? Sell your product!]***
-
 An application for a fictional company (Code Academy Parcel Service) built to emulate a typical supply chain. This service will allow vendors to ship products and notify them when their product has been delivered.
 
 ---------------------------------
