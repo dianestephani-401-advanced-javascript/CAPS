@@ -22,6 +22,7 @@
   "homepage": "https://github.com/dianestephani-401-advanced-javascript/CAPS#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "faker": "^5.1.0",
     "jest": "^26.4.2",
     "supergoose": "^0.2.6"
   }
