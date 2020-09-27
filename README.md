@@ -59,7 +59,7 @@ Install all dependencies needed for the project.
 
 ## Data Flow
 
-![Lab 16 Whiteboard](https://github.com/dianestephani-401-advanced-javascript/CAPS/blob/master/Lab%2016%20whiteboard.jpeg)
+![Lab 16 Whiteboard](https://github.com/dianestephani-401-advanced-javascript/CAPS/blob/master/assets/Lab%2016%20whiteboard.jpeg)
 
 ---------------------------
 
