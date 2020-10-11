@@ -18,5 +18,6 @@ setInterval(() => {
 }, 5000);
 
 
-//When delivery occurs, log "thankyou" to the console.
-
+events.on('delivered', payload => {
+    console.log(`Thank you for delivering ${payload.orderId}`);
+});
