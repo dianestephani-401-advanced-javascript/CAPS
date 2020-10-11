@@ -75,5 +75,8 @@ Install all dependencies needed for the project.
 ## Authors
 
 Diane Stephani
+Ben Hill
+Joe Pennock
+Kory Jackson
 
 ------------------------------
